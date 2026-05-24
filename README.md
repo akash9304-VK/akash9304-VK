@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash S | Data Analyst
 
-<!--
-**akash9304-VK/akash9304-VK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A results-driven Data Analyst focused on building robust data pipelines, designing clean relational data models, and delivering actionable BI dashboards that drive corporate growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Toolbelt
+
+* **Languages:** Python (Pandas, NumPy), SQL
+* **BI & Visualization:** Power BI (Advanced DAX, Power Query), Excel
+* **Data Architecture:** Dimensional Modeling (Star/Snowflake Schema), ETL/ELT Pipelines
+* **Version Control:** Git, GitHub
+
+---
+
+## 📈 Featured Projects Showcase
+
+### 📊 Business Intelligence & Analytics
+* **ShopNest E-Commerce Analysis:** End-to-end Power BI solution leveraging a Star Schema layout and complex DAX configurations to reverse-engineer revenue leaks and supply chain bottlenecks.
+* **Sales Performance Dashboard:** Interactive executive tracking application embedded with core corporate KPIs to monitor distribution velocity.
+
+### 🐍 Python & Data Engineering
+* **Employee Project Analysis Engine:** An automated data manipulation system built with Pandas to ingest disparate corporate datasets, calculate complex financial performance metrics, and handle sparse missing inputs.
+
+---
+
+## 📬 Connect With Me
+* 💼 **LinkedIn:** www.linkedin.com/in/akashsonwalkar
+* 📧 **Email:** akashsonwalkar9304@gmail.com
