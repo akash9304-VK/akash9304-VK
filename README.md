@@ -7,8 +7,7 @@ A results-driven Data Analyst focused on building robust data pipelines, designi
 ## 🛠️ Tech Stack & Toolbelt
 
 * **Languages:** Python (Pandas, NumPy), SQL
-* **BI & Visualization:** Power BI (Advanced DAX, Power Query), Excel
-* **Data Architecture:** Dimensional Modeling (Star/Snowflake Schema), ETL/ELT Pipelines
+* **BI & Visualization:** Power BI (Advanced DAX, Power Query), Excel,Tableau
 * **Version Control:** Git, GitHub
 
 ---
