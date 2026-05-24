@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Akash S | Data Analyst
 
 Aspiring Data Analyst skilled in Python, SQL, Power BI, and data visualization, passionate about transforming data into actionable business insights.
+---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
