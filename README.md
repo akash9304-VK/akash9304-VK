@@ -7,6 +7,7 @@ Data Analyst | SQL, Python, Power BI | Model Evaluation & Data Validation.
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-3776AB?style=for-the-badge&logo=Scikit-learn&logoColor=white)
+![Machine-Learning](https://img.shields.io/badge/Machine_learning-3776AB?style=for-the-badge&logo=Machine_learning&logoColor=white)
 ---
 
 ## 🛠️ Tech Stack & Toolbelt
