@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Akash S | Data Analyst
 
-Aspiring Data Analyst skilled in Python, SQL, Power BI, and data visualization, passionate about transforming data into actionable business insights.
+Data Analyst | SQL, Python, Power BI | Model Evaluation & Data Validation.  
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-3776AB?style=for-the-badge&logo=Scikit-learn&logoColor=white))
 ---
 
 ## 🛠️ Tech Stack & Toolbelt
 
 * **Languages:** Python (Pandas, NumPy), SQL
-* **BI & Visualization:** Power BI (Advanced DAX, Power Query), Excel,Tableau
+* **BI & Visualization:** Power BI (Advanced DAX, Power Query), Excel, Tableau
 * **Version Control:** Git, GitHub
 
 ---
