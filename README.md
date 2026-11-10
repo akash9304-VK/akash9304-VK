@@ -14,12 +14,16 @@ Data Analyst | SQL, Python, Power BI | Model Evaluation & Data Validation.
 
 * **Languages:** Python (Pandas, NumPy), SQL
 * **BI & Visualization:** Power BI (Advanced DAX, Power Query), Excel, Tableau
+* **Machine Learning:** Scikit-learn, XGBoost, Streamlit
 * **Version Control:** Git, GitHub
 
 ---
 
 ## 📈 Featured Projects Showcase
 
+### 🤖 Machine Learning & Deployment
+* **[Delivery Intelligence Platform](https://github.com/akash9304-VK/delivery-delay-prediction-olist):** End-to-end ML project that predicts late deliveries on 100K+ Brazilian e-commerce orders (Olist). Built with SQL, XGBoost and Streamlit, with single-order and bulk CSV predictions, an adjustable decision threshold and a model insights dashboard. **[Live demo](https://delivery-intelligence-akash.streamlit.app/)**
+  
 ### 📊 Business Intelligence & Analytics
 * **ShopNest E-Commerce Analysis:** End-to-end Power BI solution leveraging a Star Schema layout and complex DAX configurations to reverse-engineer revenue leaks and supply chain bottlenecks.
 * **Sales Performance Dashboard:** Interactive executive tracking application embedded with core corporate KPIs to monitor distribution velocity.
